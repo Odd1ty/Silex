@@ -1,2 +1,2 @@
-# Silex
-Website for a Minecraft Bedrock Edition network built in HTML5.
+### Hi there i'm oddity! 👋
+Creating JarJar and supporting the Silex Network.
